@@ -23,7 +23,7 @@ and resolved issues) on the [github issue tracker](https://github.com/pok-kernel
 
 
 # Commercial Support
-[Reblochon Development Company](http://www.reblochon.ai) provides commercial support for POK.
+[Reblochon Development Company](http://www.reblochon.io) provides commercial support for POK.
 You can contact them directly for further information.
 
 
